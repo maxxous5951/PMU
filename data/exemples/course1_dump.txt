@@ -1,0 +1,934 @@
+	
+participants	
+0	
+idCheval	"KARAMBAR-BADAMES-DOLLAR MACKER"
+nom	"KARAMBAR"
+numPmu	1
+age	6
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Mme H. KARROUCHI"
+entraineur	"L.CL. ABRIVARD"
+driver	"A. ABRIVARD"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"2a0a8a2a1a1a0a(25)2a1a"
+nombreCourses	33
+nombreVictoires	14
+nombrePlaces	11
+nombrePlacesSecond	5
+nombrePlacesTroisieme	1
+gainsParticipant	
+gainsCarriere	42136500
+gainsVictoires	31567500
+gainsPlace	10569000
+gainsAnneeEnCours	10100000
+gainsAnneePrecedente	16760000
+nomPere	"DOLLAR MACKER"
+nomMere	"BADAMES"
+ordreArrivee	10
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	206570
+reductionKilometrique	72500
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	26.0JS:26
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	1
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	24.0JS:24
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.8
+dateRapport	1793276700000
+favoris	false
+numPmu1	1
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-1.png"
+commentaireApresCourse	
+texte	"Attentiste sur un quatrième puis cinquième rideau à la corde, a plafonné à partir de la mi-ligne droite."
+source	"DATAHIPPIQUE"
+eleveur	"Ecurie Jean-Pierre BARJON"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+1	
+idCheval	"HUBBLE DU VIVIER-MINNIE DU VIVIER-VULCAIN DU VIVIER"
+nom	"HUBBLE DU VIVIER"
+numPmu	2
+age	9
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Mario XUEREB (MAL)"
+entraineur	"N. BAZIRE"
+driver	"Mme T. MATHIAS-MAISONNETTE"
+driverChange	false
+robe	
+code	"001"
+libelleCourt	"ALEZAN"
+libelleLong	"ALEZAN"
+indicateurInedit	false
+musique	"1a(25)1a2a3a9a6m4a2m7a"
+nombreCourses	70
+nombreVictoires	12
+nombrePlaces	39
+nombrePlacesSecond	15
+nombrePlacesTroisieme	5
+gainsParticipant	
+gainsCarriere	57850000
+gainsVictoires	28440000
+gainsPlace	29410000
+gainsAnneeEnCours	4050000
+gainsAnneePrecedente	22860000
+nomPere	"VULCAIN DU VIVIER"
+nomMere	"MINNIE DU VIVIER"
+ordreArrivee	13
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	211530
+reductionKilometrique	74200
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	97.0JS:97
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	2
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	69.0JS:69
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	1.75
+dateRapport	1793276700000
+favoris	false
+numPmu1	2
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-2.png"
+commentaireApresCourse	
+texte	"Attentiste dans la seconde partie du peloton, à la corde, a lâché prise à l'intersection des pistes."
+source	"DATAHIPPIQUE"
+eleveur	"Ecurie Jean Yves LECUYER"
+allure	"TROT"
+avisEntraineur	"NEGATIF"
+2	
+idCheval	"JINGLE DU PONT-TINA DU PONT-NIKY"
+nom	"JINGLE DU PONT"
+numPmu	3
+age	7
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"R. PADOVANI"
+entraineur	"N. BAZIRE"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"N. BAZIRE"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"0a2a3a3a1a3aDa4a3a4a"
+nombreCourses	60
+nombreVictoires	13
+nombrePlaces	31
+nombrePlacesSecond	9
+nombrePlacesTroisieme	5
+gainsParticipant	
+gainsCarriere	59283000
+gainsVictoires	33120000
+gainsPlace	26163000
+gainsAnneeEnCours	15550000
+gainsAnneePrecedente	24231000
+nomPere	"NIKY"
+nomMere	"TINA DU PONT"
+ordreArrivee	4
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	203940
+reductionKilometrique	71600
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	4.3
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	3
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	4.9
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793276700000
+favoris	false
+numPmu1	3
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-3.png"
+commentaireApresCourse	
+texte	"Rapidement le nez au vent en deuxième épaisseur, a produit un effort pour prendre la tête en bas de la descente, puis a subi une triple attaque à partir de la mi-ligne droite, sans démériter."
+source	"DATAHIPPIQUE"
+eleveur	"Ecurie A. RAYON"
+allure	"TROT"
+avisEntraineur	"POSITIF"
+3	
+idCheval	"HARMONY DU RABUTIN-TAIGA DE VIVE-ROYAL DREAM"
+nom	"HARMONY DU RABUTIN"
+numPmu	4
+age	9
+sexe	"FEMELLES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie du RABUTIN"
+entraineur	"F. GIARD"
+deferre	"PROTEGE_ANTERIEURS"
+driver	"D. BONNE"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"5a3a4a5a5a2aDa6a(25)4a"
+nombreCourses	57
+nombreVictoires	17
+nombrePlaces	36
+nombrePlacesSecond	13
+nombrePlacesTroisieme	8
+gainsParticipant	
+gainsCarriere	61537500
+gainsVictoires	27675000
+gainsPlace	33862500
+gainsAnneeEnCours	15177500
+gainsAnneePrecedente	23143000
+nomPere	"ROYAL DREAM"
+nomMere	"TAIGA DE VIVE"
+ordreArrivee	7
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	205050
+reductionKilometrique	71900
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	25.0JS:25
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	4
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	23.0JS:23
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	-0.85
+dateRapport	1793276700000
+favoris	false
+numPmu1	4
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-4.png"
+commentaireApresCourse	
+texte	"Attentiste dans le sillage de INMAROSA, qui conduisait le wagon de deux à partir du bas de la descente, n'a pu changer de rythme à la sortie du dernier tournant et a coincé pour finir."
+source	"DATAHIPPIQUE"
+eleveur	"M. Sébastien COLLAUD"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+4	
+idCheval	"HULYSSE DIGEO-NUIT D'ODYSSEE-REVE DE BEYLEV"
+nom	"HULYSSE DIGEO"
+numPmu	5
+age	9
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie J.CL. HALLAIS"
+entraineur	"J.W. HALLAIS"
+deferre	"DEFERRE_POSTERIEURS"
+driver	"J.W. HALLAIS"
+driverChange	false
+robe	
+code	"022"
+libelleCourt	"BAI BR"
+libelleLong	"BAI BRUN"
+indicateurInedit	false
+musique	"5a5a3a6a8a0a5a8a0a6a"
+nombreCourses	88
+nombreVictoires	16
+nombrePlaces	54
+nombrePlacesSecond	9
+nombrePlacesTroisieme	13
+gainsParticipant	
+gainsCarriere	62055000
+gainsVictoires	39510000
+gainsPlace	22545000
+gainsAnneeEnCours	5106000
+gainsAnneePrecedente	24280000
+nomPere	"REVE DE BEYLEV"
+nomMere	"NUIT D'ODYSSEE"
+ordreArrivee	3
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	203840
+reductionKilometrique	71500
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	15.0JS:15
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	5
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	13.0JS:13
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.77
+dateRapport	1793276700000
+favoris	false
+numPmu1	5
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-5.png"
+commentaireApresCourse	
+texte	"Vite sur une troisième ligne à la corde, a pris le wagon de deux en plaine, puis a bien conclu, près de HARLEY GEMA."
+source	"DATAHIPPIQUE"
+eleveur	"M. Eugène André RICHER"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+5	
+idCheval	"JUSTIN BOLD-UDINE-BOLD EAGLE"
+nom	"JUSTIN BOLD"
+numPmu	6
+age	7
+sexe	"MALES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie du DAMIER"
+entraineur	"J.R. DELLIAUX"
+driver	"P.Y. VERVA"
+driverChange	false
+robe	
+code	"021"
+libelleCourt	"BAI F."
+libelleLong	"BAI FONCE"
+indicateurInedit	false
+musique	"Da(25)Da7a2a2aDa4a3aDa"
+nombreCourses	62
+nombreVictoires	11
+nombrePlaces	31
+nombrePlacesSecond	8
+nombrePlacesTroisieme	7
+gainsParticipant	
+gainsCarriere	64077000
+gainsVictoires	26838000
+gainsPlace	37239000
+gainsAnneeEnCours	0
+gainsAnneePrecedente	9119000
+nomPere	"BOLD EAGLE"
+nomMere	"UDINE"
+ordreArrivee	11
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	208440
+reductionKilometrique	73100
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	134.0JS:134
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	6
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	95.0JS:95
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.52
+dateRapport	1793276700000
+favoris	false
+numPmu1	6
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-6.png"
+commentaireApresCourse	
+texte	"Vite dans la seconde partie du peloton, a perdu des rangs dans la montée et a été nettement dominé dans le dernier tournant."
+source	"DATAHIPPIQUE"
+eleveur	"Ecurie des MOUETTES"
+allure	"TROT"
+avisEntraineur	"NEGATIF"
+6	
+idCheval	"HANNIBAL TUILERIE-AKIWANGA-REMEMBER JIHEM"
+nom	"HANNIBAL TUILERIE"
+numPmu	7
+age	9
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie BRUNEAU"
+entraineur	"CH.M. BRUNEAU"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"G. LENAIN"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"4aDa6a1a9a3a6m8a5a0a"
+nombreCourses	108
+nombreVictoires	17
+nombrePlaces	61
+nombrePlacesSecond	14
+nombrePlacesTroisieme	9
+gainsParticipant	
+gainsCarriere	65600500
+gainsVictoires	35617500
+gainsPlace	29983000
+gainsAnneeEnCours	3882000
+gainsAnneePrecedente	13770000
+nomPere	"REMEMBER JIHEM"
+nomMere	"AKIWANGA"
+ordreArrivee	6
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	204610
+reductionKilometrique	71800
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	52.0JS:52
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	7
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	36.0JS:36
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	2.5
+dateRapport	1793276700000
+favoris	false
+numPmu1	7
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-7.png"
+commentaireApresCourse	
+texte	"Vite dans le dernier tiers du peloton, a fini très correctement, sans pouvoir remonter KRACK TIME ATOUT."
+source	"DATAHIPPIQUE"
+eleveur	"M. Laurent PELLEROT"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+7	
+idCheval	"JABALPUR-SLIEMA-BOOSTER WINNER"
+nom	"JABALPUR"
+numPmu	8
+age	7
+sexe	"MALES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"TRAMONTOM SRL (ITY)"
+entraineur	"A. CHAVATTE"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"E. RAFFIN"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"0a9a6a9a2a5a0a5a0a(25)"
+nombreCourses	54
+nombreVictoires	12
+nombrePlaces	24
+nombrePlacesSecond	5
+nombrePlacesTroisieme	3
+gainsParticipant	
+gainsCarriere	66238000
+gainsVictoires	50375000
+gainsPlace	15863000
+gainsAnneeEnCours	3579000
+gainsAnneePrecedente	38495000
+nomPere	"BOOSTER WINNER"
+nomMere	"SLIEMA"
+ordreArrivee	8
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	205440
+reductionKilometrique	72100
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	5.8
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	8
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	6.4
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793276700000
+favoris	false
+numPmu1	8
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-8.png"
+commentaireApresCourse	
+texte	"Placé sur une deuxième puis troisième ligne à la corde, n'a pu passer changer de vitesse dans la phase finale."
+source	"DATAHIPPIQUE"
+eleveur	"M. Alain Georges GROULT"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+8	
+idCheval	"KAPAULA DE L'EPINE-PAULA JIM-DISCOURS JOYEUX"
+nom	"KAPAULA DE L'EPINE"
+numPmu	9
+age	6
+sexe	"FEMELLES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"J.G. VAN EECKHAUTE"
+entraineur	"J.G. VAN EECKHAUTE"
+driver	"J.G. VAN EECKHAUTE"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"6m5m3m5m3m4mDm1mDm2m"
+nombreCourses	68
+nombreVictoires	5
+nombrePlaces	34
+nombrePlacesSecond	10
+nombrePlacesTroisieme	6
+gainsParticipant	
+gainsCarriere	70312000
+gainsVictoires	27270000
+gainsPlace	43042000
+gainsAnneeEnCours	15710000
+gainsAnneePrecedente	17598000
+nomPere	"DISCOURS JOYEUX"
+nomMere	"PAULA JIM"
+ordreArrivee	12
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	211180
+reductionKilometrique	74100
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	138.0JS:138
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	9
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	88.0JS:88
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	2.42
+dateRapport	1793276700000
+favoris	false
+numPmu1	9
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-9.png"
+commentaireApresCourse	
+texte	"Vite à l'arrière-garde, a perdu le contact avec le peloton dans la montée et a fini dans le lointain."
+source	"DATAHIPPIQUE"
+eleveur	"M. Hubert SORIEUX"
+allure	"TROT"
+avisEntraineur	"NEGATIF"
+9	
+idCheval	"HARLEY GEMA-REEDITE GEDE-BOLD EAGLE"
+nom	"HARLEY GEMA"
+numPmu	10
+age	9
+sexe	"FEMELLES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie Marc SASSIER"
+entraineur	"M. SASSIER"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"B. ROCHARD"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"Da6a5a6a4a3a7a0a7aDa"
+nombreCourses	78
+nombreVictoires	16
+nombrePlaces	39
+nombrePlacesSecond	14
+nombrePlacesTroisieme	3
+gainsParticipant	
+gainsCarriere	71062700
+gainsVictoires	40410000
+gainsPlace	30652700
+gainsAnneeEnCours	13735700
+gainsAnneePrecedente	13210000
+nomPere	"BOLD EAGLE"
+nomMere	"REEDITE GEDE"
+ordreArrivee	2
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	203780
+reductionKilometrique	71500
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	10.0JS:10
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	10
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	12.0JS:12
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	-2.34
+dateRapport	1793276700000
+favoris	false
+numPmu1	10
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-10.png"
+commentaireApresCourse	
+texte	"Vite en tête, puis relayée par JINGLE DU PONT en bas de la descente, a été décalée à l'entrée de la ligne droite et a bien terminé, sans pouvoir complètement remonter INMAROSA."
+source	"DATAHIPPIQUE"
+eleveur	"Mme Marie-Annick SASSIER"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+10	
+idCheval	"HORCHESTRO-ALISMA DU CORTA-SAM BOURBON"
+nom	"HORCHESTRO"
+numPmu	11
+age	9
+sexe	"HONGRES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"G. DAMBACH (SWI)"
+entraineur	"M. BONNEFOY"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"D. BEKAERT"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"5a4a2aDa7a0a0a2a(25)2a"
+nombreCourses	84
+nombreVictoires	17
+nombrePlaces	44
+nombrePlacesSecond	16
+nombrePlacesTroisieme	7
+gainsParticipant	
+gainsCarriere	73046000
+gainsVictoires	33030000
+gainsPlace	40016000
+gainsAnneeEnCours	7690000
+gainsAnneePrecedente	16265000
+nomPere	"SAM BOURBON"
+nomMere	"ALISMA DU CORTA"
+ordreArrivee	9
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	205690
+reductionKilometrique	72200
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	14.0JS:14
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	11
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	12.0JS:12
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.79
+dateRapport	1793276700000
+favoris	false
+numPmu1	11
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-11.png"
+commentaireApresCourse	
+texte	"Attentiste à l'arrière-garde, n'a jamais pu se montrer dangereux."
+source	"DATAHIPPIQUE"
+eleveur	"M. Jean-Pierre DUBOIS"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+11	
+idCheval	"KRACK TIME ATOUT-TOPAZE D'ATOUT-FACE TIME BOURBON"
+nom	"KRACK TIME ATOUT"
+numPmu	12
+age	6
+sexe	"MALES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ph. BARBE"
+entraineur	"S. GUARATO"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"F. NIVARD"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"5a3a1a4a7aDa0a7a(25)4a"
+nombreCourses	49
+nombreVictoires	9
+nombrePlaces	26
+nombrePlacesSecond	7
+nombrePlacesTroisieme	7
+gainsParticipant	
+gainsCarriere	92268700
+gainsVictoires	57945000
+gainsPlace	34323700
+gainsAnneeEnCours	6338700
+gainsAnneePrecedente	20700000
+nomPere	"FACE TIME BOURBON"
+nomMere	"TOPAZE D'ATOUT"
+ordreArrivee	5
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	204480
+reductionKilometrique	71700
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	4.1
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	true
+numPmu1	12
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	4.2
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793276700000
+favoris	true
+numPmu1	12
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-12.png"
+commentaireApresCourse	
+texte	'Attentiste dans la seconde partie du peloton, a "effacé" JUSTIN BOLD dans la montée, puis a terminé convenablement, en léger retrait des quatre premiers.'
+source	"DATAHIPPIQUE"
+eleveur	"S.C.E.A. du BEAUMANOIR"
+allure	"TROT"
+avisEntraineur	"POSITIF"
+12	
+idCheval	"IGUSKI SAUTONNE-SARA SAUTONNE-VILLAGE MYSTIC"
+nom	"IGUSKI SAUTONNE"
+numPmu	13
+age	8
+sexe	"MALES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"Ecurie LD-M. ABRIVARD"
+entraineur	"M. ABRIVARD"
+driver	"J.ET. ABRIVARD"
+driverChange	false
+robe	
+code	"022"
+libelleCourt	"BAI BR"
+libelleLong	"BAI BRUN"
+indicateurInedit	false
+musique	"1a5a1m(25)5a3m5a1a6a3a"
+nombreCourses	65
+nombreVictoires	20
+nombrePlaces	28
+nombrePlacesSecond	7
+nombrePlacesTroisieme	10
+gainsParticipant	
+gainsCarriere	113798000
+gainsVictoires	86715000
+gainsPlace	27083000
+gainsAnneeEnCours	42500000
+gainsAnneePrecedente	32219000
+nomPere	"VILLAGE MYSTIC"
+nomMere	"SARA SAUTONNE"
+incident	"DISQUALIFIE_POUR_ALLURE_IRREGULIERE"
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	66.0JS:66
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	13
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	54.0JS:54
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.18
+dateRapport	1793276700000
+favoris	false
+numPmu1	13
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-13.png"
+commentaireApresCourse	
+texte	"Parti au galop, a été disqualifié."
+source	"DATAHIPPIQUE"
+eleveur	"Ecurie de SAUTONNE"
+allure	"TROT"
+avisEntraineur	"NEGATIF"
+13	
+idCheval	"INMAROSA-VARKAVA-AMIRAL SACHA"
+nom	"INMAROSA"
+numPmu	14
+age	8
+sexe	"FEMELLES"
+race	"TROTTEUR FRANCAIS"
+statut	"PARTANT"
+oeilleres	"SANS_OEILLERES"
+proprietaire	"J. COTTEL"
+entraineur	"L.CL. ABRIVARD"
+deferre	"DEFERRE_ANTERIEURS_POSTERIEURS"
+driver	"LEO ABRIVARD"
+driverChange	false
+robe	
+code	"020"
+libelleCourt	"BAI"
+libelleLong	"BAI"
+indicateurInedit	false
+musique	"5a6a4a8a4a8a7a4a6a0a"
+nombreCourses	82
+nombreVictoires	7
+nombrePlaces	48
+nombrePlacesSecond	15
+nombrePlacesTroisieme	7
+gainsParticipant	
+gainsCarriere	119677700
+gainsVictoires	26235000
+gainsPlace	93442700
+gainsAnneeEnCours	5336600
+gainsAnneePrecedente	35502100
+nomPere	"AMIRAL SACHA"
+nomMere	"VARKAVA"
+ordreArrivee	1
+jumentPleine	false
+engagement	false
+supplement	0
+handicapDistance	2850
+poidsConditionMonteChange	false
+tempsObtenu	203690
+reductionKilometrique	71500
+dernierRapportDirect	
+typePari	"SIMPLE_GAGNANT"
+rapport	6.2
+typeRapport	"DIRECT"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793278660000
+favoris	false
+numPmu1	14
+grossePrise	false
+dernierRapportReference	
+typePari	"SIMPLE_GAGNANT"
+rapport	5.8
+typeRapport	"REFERENCE"
+nombreIndicateurTendance	0.0JS:0
+dateRapport	1793276700000
+favoris	false
+numPmu1	14
+grossePrise	false
+urlCasaque	"https://assets.racingdata.pmu.fr/silks/20261029/VIN/1/20261029-VIN-1-14.png"
+commentaireApresCourse	
+texte	"Le nez au vent en deuxième épaisseur en bas de la descente, a pris la mesure de JINGLE DU PONT à mi-ligne droite, avant de se montrer très courageuse pour résister à HARLEY GEMA et HULYSSE DIGEO."
+source	"DATAHIPPIQUE"
+eleveur	"M. Ludovic FLEURY"
+allure	"TROT"
+avisEntraineur	"NEUTRE"
+ecuries	[]
+spriteCasaques	
+0	
+heightSize	19
+url	"https://www.pmu.fr/back-assets/hippique/casaques/29102026/R1/C1/sprite_casaques_19px_size.png"
+originalSize	false
+1	
+heightSize	40
+url	"https://www.pmu.fr/back-assets/hippique/casaques/29102026/R1/C1/sprite_casaques_40px_size.png"
+originalSize	false
+2	
+heightSize	261
+url	"https://www.pmu.fr/back-assets/hippique/casaques/29102026/R1/C1/sprite_casaques_original_size.png"
+originalSize	true
+cached	true
